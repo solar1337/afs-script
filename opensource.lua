@@ -2273,7 +2273,7 @@ end
 
 
 	    
-		Tab:AddLabel("\nScript : stellar#4242 \nUi Lib : Singularity#5490")
+		Tab:AddLabel("\nScript : Krnl#4145 \nUi Lib : Singularity#5490")
         Tab:AddLabel(getgenv().str) -- when i obfuscated this broke so i had to do getgenv().str
         
 sex = {}
